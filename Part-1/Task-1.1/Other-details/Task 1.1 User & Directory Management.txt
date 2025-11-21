@@ -1,0 +1,10 @@
+Task 1.1: User & Directory Management
+
+	had a issue with login but got resolved on the go
+        used the powershell because it uses less resources than puTTY GUI
+
+guide 
+     
+     used geeks for geeks for guide through the setup process 
+     used Youtube for the Powers shell scripts to run the application
+         
